@@ -1,3 +1,3 @@
-### Hi there 👋
+## Hi there 👋
 
-Working on setting up Pages for public profile.
+Welcome to my corner of GitHub
