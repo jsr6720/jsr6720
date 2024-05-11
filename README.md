@@ -2,11 +2,12 @@
 
 This repo only exists to make a welcome markdown profile page.
 
-I suppose I should add a bio here or maybe a list of favorite books.
+Here is something useful you see. A list of books to you from me. And I wrote this without ChatGPT!!
 
-- Green Eggs and Ham by Dr. Seuss
-- An Elegant Puzzle: Systems of Engineering Management by Will Larson
+- *Fox in Socks* by Dr. Seuss
+- *An Elegant Puzzle: Systems of Engineering Management* by Will Larson
+- *The Complete Far Side* by Gary Larson
 
-James Bio: Father, engineer.
+James Bio: Father, engineer. [see if I'm still alive](https://status.jsrowe.com) or check me out on [linkedin](https://www.linkedin.com/in/jsr6720)
 
 Ever onward. -James
